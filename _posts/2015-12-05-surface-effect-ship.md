@@ -5,5 +5,6 @@ title: Surface Effect Ship
 categories: [maritime, ship, control, dynamic positioning]
 ---
 # Modeling and Control of Surface Effect Ship #
+
 ### for Accessing Offshore Windturbines ###
 

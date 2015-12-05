@@ -15,3 +15,6 @@ The approach to the setup of the robotics lab will be mainly focused on using op
 #### Setup Limitations ####
 To facilitate future projects in the lab, it is important to find accurate descriptions of what one can do with the current lab setup. This means evaluating communication latency, the limitations of the software used, and what you think must be developed in the future.
 
+
+#### Motivational Videos ####
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MtzU63GZE5k" frameborder="0" allowfullscreen></iframe>
