@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Estimating Cell-models with Atomic Force Microscopes
+title: Atomic Force Microscope
 date: 2015-12-05
 categories: [atomic force microscope, parameter estimation]
 ---
