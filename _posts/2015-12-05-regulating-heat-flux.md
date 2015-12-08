@@ -27,7 +27,9 @@ Temperaturene som oppnås i ovnen er avhengige av:
  
 I forsøkene er følgende målinger tilgjengelige:
 * Temperaturer i ovnen
-* Omgivelsestemperatur
+ * Omgivelsestemperatur
+  * Test 1
+  * Test 2
 * Gasstrømningsrate
 * Pådrag på vifter (%)
 * Vindmåling (styrke og retning)
