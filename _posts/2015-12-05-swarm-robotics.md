@@ -5,3 +5,5 @@ date: 2015-12-05
 categories: [swarm robotics, emergent properties]
 ---
 # Swarm Robotics #
+
+Det er ønskelig å utforske kjente metoder fra kybernetikken (koordinering, synkronisering) på virkelig store mengder av mekaniske systemer (svermer, "Swarms"). 
