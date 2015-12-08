@@ -39,10 +39,7 @@ En reguleringsteknisk utfordning er at systemet har en forholdsvis lang tidskons
 ####Oppgave:####
 * Sette seg inn i problemstillingen.
  * Forenklet forbrenningslære.
- * Mekanismer for varmeoverføring.
-   * Stråling
-   * Konveksjon
-   * Ledning
+ * Mekanismer for varmeoverføring (Stråling, Konveksjon, Ledning)
  * Demonstrasjon av jetbranntest.
 * Lage en matematisk modell som kan beskrive systemet og dets respons.
 * Kalibrere modellen mot historiske måledata.
