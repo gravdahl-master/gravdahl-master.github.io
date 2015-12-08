@@ -38,7 +38,7 @@ En reguleringsteknisk utfordning er at systemet har en forholdsvis lang tidskons
  
 ####Oppgave:####
 * Sette seg inn i problemstillingen.
-+ Forenklet forbrenningslære.
+** Forenklet forbrenningslære.
 + Mekanismer for varmeoverføring.
 + Stråling
 §  Konveksjon
