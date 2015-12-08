@@ -19,19 +19,19 @@ Som et svar på dette har SPFR videreutviklet en testmetode, som baserer seg på
 Testoppsettet består av en ovn, -en kube med sider på ca. 3 m. Prøvestykket som skal testes plasseres i ovnen, og blir utsatt for en jet med antent propangass. Prøvestykket blir dermed utsatt for høye temperaturer og erosjonskraften fra gasstrålen.
  
 Temperaturene som oppnås i ovnen er avhengige av:
-·         Mengde gass (i testene ca. 0,3 kg/s)
-·         Tilgjengelig oksygen (har regulerbare vifter i testene)
-·         Vind og værforhold
-·         Prøvestykket som testes
-·         Fuktinnhold i selve ovnskonstruksjonen (ovnen er bygd av siporex (porebetong))
+* Mengde gass (i testene ca. 0,3 kg/s)
+* Tilgjengelig oksygen (har regulerbare vifter i testene)
+* Vind og værforhold
+* Prøvestykket som testes
+* Fuktinnhold i selve ovnskonstruksjonen (ovnen er bygd av siporex (porebetong))
  
 I forsøkene er følgende målinger tilgjengelige:
-·         Temperaturer i ovnen
-·         Omgivelsestemperatur
-·         Gasstrømningsrate
-·         Pådrag på vifter (%)
-·         Vindmåling (styrke og retning)
-·         Andre målinger vil vurderes ved behov
+* Temperaturer i ovnen
+* Omgivelsestemperatur
+* Gasstrømningsrate
+* Pådrag på vifter (%)
+* Vindmåling (styrke og retning)
+* Andre målinger vil vurderes ved behov
  
 En reguleringsteknisk utfordning er at systemet har en forholdsvis lang tidskonstant (fra ≈20 sek – 2 min).
  
