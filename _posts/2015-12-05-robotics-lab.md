@@ -8,7 +8,7 @@ categories: [industrial robotics, robotics, real-time]
 
 ![robotlab]({{site.baseurl}}/assets/robotlab1.jpg)
 
-### Setup, Analysis and Control of an Industrial Robotics LaB ###
+### Setup, Analysis and Control of an Industrial Robotics Lab ###
 The robotics lab situated in the basement of the D-block is ready for a technological overhaul. The task is to interface two KUKA KR16 robots with a real-time linux setup and evaluate the usefulness of this lab.
 
 #### Open Source ####
