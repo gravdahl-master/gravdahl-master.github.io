@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Robotics Lab
-date: 2015-12-05
+date: 2016-04-19
 categories: [industrial robotics, robotics, real-time]
 ---
 # Robotics Lab #
