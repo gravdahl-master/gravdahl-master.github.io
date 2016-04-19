@@ -6,4 +6,4 @@ categories: [smallsats, cubesats, attitude control]
 ---
 # Satellittformasjoner #
 
-Det er ønskelig å utforske bruk av mikro thrustere for å holde småsatelitter i en formasjon over lengre tid. 
+Det er ønskelig å utforske bruk av mikro-thrustere for å holde småsatelitter i en formasjon over lengre tid. 
