@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2015-04-19
+date: 2016-04-19
 title: Surface Effect Ship
 categories: [maritime, ship, control, dynamic positioning]
 ---
