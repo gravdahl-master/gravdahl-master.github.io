@@ -1,8 +1,8 @@
 ---
 layout: post #always use this
-title: Satellittformasjoner #This becomes the title of the page
+title: Robotic 3D imaging #This becomes the title of the page
 date: 2016-04-19
-categories: [smallsats, cubesats, attitude control]
+categories: [robots]
 ---
 # Robotic 3D imaging #
 
