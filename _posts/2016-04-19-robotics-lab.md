@@ -4,7 +4,7 @@ title: Robotics Lab
 date: 2016-04-19
 categories: [industrial robotics, robotics, real-time]
 ---
-# Robotics Lab testing #
+# Robotics Lab testing  #
 
 ![robotlab]({{site.baseurl}}/assets/robotlab1.jpg)
 
