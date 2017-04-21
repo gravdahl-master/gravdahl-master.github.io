@@ -6,7 +6,7 @@ categories: [nonlinear control, sliding mode]
 ---
 # Online stacking of heterogeneous parcels onto pallets #
 
-![Pallet]({{site.baseurl}}/assets/robotlab1.jpg)
+![Pallet]({{site.baseurl}}/assets/Pallet1.png)
 
 At wholesalers, boxes of different shapes are packed onto pallets. This is a high volume, work intensive area which is almost always done manually. A successful automation of these processes will require solving several technical challenges linked to parcel localization, grasping and stacking on a new pallet. In this project, it is proposed to investigate solutions for online stacking of heterogeneous parcels onto pallets. 
 
