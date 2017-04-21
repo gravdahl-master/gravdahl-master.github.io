@@ -4,8 +4,13 @@ title: Online Stacking of heterogeneous parcels onto pallets   #This becomes the
 date: 2017-04-21
 categories: [nonlinear control, sliding mode]
 ---
-# Super twisting sliding mode control #
+# Online stacking of heterogeneous parcels onto pallets #
 
-Oppgaven går ut på å utforske en ulineær regulatordesignmetode kjent som "Super twisting sliding mode control".
-Dette er en høyere ordens (f.eks 2.orden) sliding mode regulator. For informasjon om sliding mode, se penumboken i ulineære systemer, Khalil: Nonlinear systems. 
-Regulatoren er tenkt testet ut (simulert) på et mekanisk system (fartøy, robot, etc) og sammenlignet med andre design. 
+
+
+At wholesalers, boxes of different shapes are packed onto pallets. This is a high volume, work intensive area which is almost always done manually. A successful automation of these processes will require solving several technical challenges linked to parcel localization, grasping and stacking on a new pallet. In this project, it is proposed to investigate solutions for online stacking of heterogeneous parcels onto pallets. 
+The issue of packing as efficiently as many parcels as possible in a given volume is an active research area. Surprisingly, the issue of stability, taking into account tilting of products is rarely ever mentioned. This is the issue we would like to investigate in this project, with a focus on online stacking of one or several given products on the current stack.
+The following papers can be read to get an overview of the state-of-the-art:
+
+Schuster, Martin, et al. "Stable stacking for the distributor's pallet packing problem." Intelligent Robots and Systems (IROS), 2010 IEEE/RSJ International Conference on. IEEE, 2010.
+Bortfeldt, Andreas, and Gerhard Wäscher. Container Loading Problems-A State-ofthe-Art Review. FEMM Working Papers 120007, 2012.
