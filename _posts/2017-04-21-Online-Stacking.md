@@ -14,6 +14,6 @@ The issue of packing as efficiently as many parcels as possible in a given volum
 
 The following papers can be read to get an overview of the state-of-the-art:
 
-Schuster, Martin, et al. "Stable stacking for the distributor's pallet packing problem." Intelligent Robots and Systems (IROS), 2010 IEEE/RSJ International Conference on. IEEE, 2010.
+* Schuster, Martin, et al. "Stable stacking for the distributor's pallet packing problem." Intelligent Robots and Systems (IROS), 2010 IEEE/RSJ International Conference on. IEEE, 2010.
 
-Bortfeldt, Andreas, and Gerhard Wäscher. Container Loading Problems-A State-ofthe-Art Review. FEMM Working Papers 120007, 2012.
+* Bortfeldt, Andreas, and Gerhard Wäscher. Container Loading Problems-A State-ofthe-Art Review. FEMM Working Papers 120007, 2012.
