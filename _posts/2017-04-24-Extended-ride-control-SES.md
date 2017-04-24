@@ -1,6 +1,6 @@
 ---
 layout: post #always use this
-title: Online Stacking of heterogeneous parcels onto pallets   #This becomes the title of the page
+title: Design of extentded ride control system for SES    #This becomes the title of the page
 date: 2017-04-21
 categories: [nonlinear control, sliding mode]
 ---
