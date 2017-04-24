@@ -1,4 +1,3 @@
-
 ---
 layout: post #always use this
 title: Automatisk montasje   #This becomes the title of the page
