@@ -15,3 +15,5 @@ Det virtuelle sikkerhetsnettet innbefatter:
 * I begge tilfeller gi robotens styringsprogram tilbakemelding om type kollisjon som ble unngått.
  
 Studenten skal jobbe sammen med en PhD-kandidat i prosjektet, som skal implementere reinforcement learning.
+
+Kontaktperson: John.Reidar.Mathiassen@sintef.no
