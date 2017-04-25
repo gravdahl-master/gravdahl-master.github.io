@@ -1,6 +1,6 @@
 ---
 layout: post #always use this
-title: 3D printing by robot   #This becomes the title of the page
+title: Attitude determination and control system (ADCS) for NUTS  #This becomes the title of the page
 date: 2017-04-25
 categories: [nonlinear control, sliding mode]
 ---
