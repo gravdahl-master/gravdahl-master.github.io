@@ -20,8 +20,6 @@ Programing skills with Matlab and Simulink are required. The project may involve
 
 The work will be supervised by 
 
-Professor Jan Tommy Gravdahl from Department of Engineering Cybernetics 
-Adj. Associate professor Vahid Hassani from Department of Marine Technology, 
-and Dr. Øyvind Auestad from Umoe Mandal.
+Professor Jan Tommy Gravdahl from Department of Engineering Cybernetics, Adj. Associate professor Vahid Hassani from Department of Marine Technology, and Dr. Øyvind Auestad from Umoe Mandal.
 
 [1] Øyvind F. Auestad, (2015). The Boarding Control System. Ph.D. thesis, Norwegian University of Science and Technology.
