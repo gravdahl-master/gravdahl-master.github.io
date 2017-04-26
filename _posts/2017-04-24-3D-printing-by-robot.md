@@ -6,5 +6,5 @@ categories: [nonlinear control, sliding mode]
 ---
 # 3D printing by robot #
 
-
+![Robot]({{site.baseurl}}/assets/AM_by_robot.png)
 ![Product]({{site.baseurl}}/assets/AM_by_robot_final.png)
