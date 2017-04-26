@@ -7,4 +7,4 @@ categories: [nonlinear control, sliding mode]
 # 3D printing by robot #
 
 
-![Pallet]({{site.baseurl}}/assets/Pallet1.png)
+![Pallet]({{site.baseurl}}/assets/AM by robot final.png)
