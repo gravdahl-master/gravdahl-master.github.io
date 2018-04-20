@@ -13,20 +13,18 @@ The work will be focused on interfacing with ROS: robotic operating system. At i
 
 In this master thesis the student is to explore the use of an HTC Vive for rapid robot cell calibration. Can this technology let us map existing parts of a work cell faster? Can we visualize potential future work cells or alterations to the work cell with new components? 
 
-## Prerequisites ##
-
+### Prerequisites ###
 1. Interest in robotics, programming and virtual reality
 2. Experience with Ubuntu (Ideally ROS as well)
 3. Experience with Python and C++
 
-## Tasks ##
-
+### Tasks ###
 1. Set up HTC Vive for use with Ubuntu 
 2. Establish an overview of existing Vive-ROS bridging attempts[^3][^4]
 3. Set up a ROS Node for publishing HTC Vive sensor data
 4. Evaluate accuracy of handheld remotes for use with calibration
 
-## Further work ##
+### Further work ###
 
 There are three main directions that the project can branch into. The first is live-tracking of objects. If the accuracy and rate is sufficient with simply the handheld remotes it may serve as a ground truth for localization algorithms developed for drones. This would require construction of small, simple sensors that mimic the behavior of the handheld remotes[^5].
 
@@ -34,18 +32,17 @@ The second is geometrics. If the accuracy is sufficient, the next step in a rapi
 
 The third is calibration of Thrivaldi[^7]. Recently the Department of Engineering Cybernetics acquired a robotics lab from SINTEF. The lab consists of two KUKA robots, one hanging from a large gantry crane, and the other situated on the floor. This lab has been set up with a forward kinematics based on its 3D model, and if the Vive is sufficiently accurate, we can revise it and improve the robot description.
 
-## Contacts ##
+### Contacts ###
 
 1. Tommy Gravdahl - Main supervisor
 2. Mathias Hauan Arbo  - PhD at the department (Co-supervisor)
 3. Esten Ingar Grøtli - SINTEF Digitcal (Potential co-supervisor)
 
-## Links ##
-
-[^1]: [https://www.youtube.com/watch?v=75ZytcYANTA]
-[^2]: [http://www.ros.org/news/2016/08/03mm-indoor-localization-with-ros-and-htc-vive.html]
-[^3]: [https://github.com/cmbruns/pyopenvr]
-[^4]: [https://github.com/robosavvy/vive_ros/issues/11]
-[^5]: [https://hackaday.io/project/19570-htc-vive-lighthouse-custom-tracking]
+### Links ###
+[^1]: [https://www.youtube.com/watch?v=75ZytcYANTA](Hackaday presentation of lighthouses technology)
+[^2]: [http://www.ros.org/news/2016/08/03mm-indoor-localization-with-ros-and-htc-vive.html](ROS news article on HTC Vive localization)
+[^3]: [https://github.com/cmbruns/pyopenvr](Github page on pyopenvr)
+[^4]: [https://github.com/robosavvy/vive_ros/issues/11](Github discussion on vive_ros package)
+[^5]: [https://hackaday.io/project/19570-htc-vive-lighthouse-custom-tracking](Custom Vive tracker project)
 [^6]: Article under review, contact Mathias
-[^7]: [https://github.com/itk-thrivaldi]
+[^7]: [https://github.com/itk-thrivaldi](Github project for Thrivaldi)
