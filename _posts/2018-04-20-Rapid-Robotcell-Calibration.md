@@ -39,9 +39,15 @@ The third is calibration of Thrivaldi[^7]. Recently the Department of Engineerin
 
 ## Links ##
 [^1]:https://www.youtube.com/watch?v=75ZytcYANTA
+
 [^2]:http://www.ros.org/news/2016/08/03mm-indoor-localization-with-ros-and-htc-vive.html
+
 [^3]:https://github.com/cmbruns/pyopenvr
+
 [^4]:https://github.com/robosavvy/vive_ros/issues/11
+
 [^5]:https://hackaday.io/project/19570-htc-vive-lighthouse-custom-tracking
+
 [^6]:Article under review, contact Mathias
+
 [^7]:https://github.com/itk-thrivaldi
