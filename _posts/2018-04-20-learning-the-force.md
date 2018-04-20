@@ -36,6 +36,9 @@ It would also benefit the community if the overall approach is systematized. Thi
 
 ## Links ##
 [^1]: [https://www.kukakore.com/wp-content/uploads/2012/07/KUKA_LBR4plus_ENLISCH.pdf]
+
 [^2]: Ivar Eriksen's Master Thesis
+
 [^3]: [https://www.youtube.com/watch?v=iRKDfknqtbc]
+
 [^4]: [https://ieeexplore.ieee.org/document/7487127/]
