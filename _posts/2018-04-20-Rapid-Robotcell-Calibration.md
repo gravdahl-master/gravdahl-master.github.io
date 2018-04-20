@@ -1,7 +1,7 @@
 ---
 layout: post #always use this
 title: Rapid Robotcell Calibration: Vive for Robotics  #This becomes the title of the page
-date: 2018-04-19
+#date: 2018-04-19
 categories: [virtual reality, industrial robotics]
 ---
 
