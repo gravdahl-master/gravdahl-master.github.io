@@ -28,6 +28,9 @@ If time allows, we would like to see experiments on a UR5 to evaluate the accura
 
 The software is initially aimed towards Python programmers and CasADi users, but many at the department use Matlab, and other symbolic expression libraries. Once the algorithms are created for Python, it should be easy to implement a Matlab version as well. Support for other symbolic expression libraries may prove difficult, but would be a welcomed extension of the project.
 
+### Contacts ###
+1. Tommy Gravdahl - Main supervisor
+2. Mathias Hauan Arbo - PhD at the department (Co-supervisor)
 
 [^1]:[ROS page on URDF](http://wiki.ros.org/urdf)
 [^2]:[OROCOS homepage (outdated)](http://www.orocos.org/)
