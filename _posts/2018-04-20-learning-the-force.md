@@ -1,6 +1,6 @@
 ---
 layout: post #always use this
-title: Learning the force: Estimating End-Effector force in Robots #This becomes the title of the page
+title: Learning the force - Estimating End-Effector force in Robots #This becomes the title of the page
 date: 2018-04-20
 categories: [compliant robotics, force estimation]
 ---
