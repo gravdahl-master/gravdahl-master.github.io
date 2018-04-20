@@ -26,6 +26,7 @@ In this master thesis the student is to explore the use of an HTC Vive for rapid
 4. Evaluate accuracy of handheld remotes for use with calibration
 
 ## Further work ##
+
 There are three main directions that the project can branch into. The first is live-tracking of objects. If the accuracy and rate is sufficient with simply the handheld remotes it may serve as a ground truth for localization algorithms developed for drones. This would require construction of small, simple sensors that mimic the behavior of the handheld remotes[^5].
 
 The second is geometrics. If the accuracy is sufficient, the next step in a rapid robot cell calibration system would be to prototype software capable of placing real-world items in a virtual robot cell with their 3D models. The software would go from virtual task description, rapid calibration, to simulating a robotic assembly, and eventually performing a robotic assembly.[^6]
@@ -33,21 +34,17 @@ The second is geometrics. If the accuracy is sufficient, the next step in a rapi
 The third is calibration of Thrivaldi[^7]. Recently the Department of Engineering Cybernetics acquired a robotics lab from SINTEF. The lab consists of two KUKA robots, one hanging from a large gantry crane, and the other situated on the floor. This lab has been set up with a forward kinematics based on its 3D model, and if the Vive is sufficiently accurate, we can revise it and improve the robot description.
 
 ## Contacts ##
+
 1. Tommy Gravdahl - Main supervisor
 2. Mathias Hauan Arbo  - PhD at the department (Co-supervisor)
 3. Esten Ingar Grøtli - SINTEF Digitcal (Potential co-supervisor)
 
 ## Links ##
-[^1]:https://www.youtube.com/watch?v=75ZytcYANTA
 
-[^2]:http://www.ros.org/news/2016/08/03mm-indoor-localization-with-ros-and-htc-vive.html
-
-[^3]:https://github.com/cmbruns/pyopenvr
-
-[^4]:https://github.com/robosavvy/vive_ros/issues/11
-
-[^5]:https://hackaday.io/project/19570-htc-vive-lighthouse-custom-tracking
-
-[^6]:Article under review, contact Mathias
-
-[^7]:https://github.com/itk-thrivaldi
+[^1]: [https://www.youtube.com/watch?v=75ZytcYANTA]
+[^2]: [http://www.ros.org/news/2016/08/03mm-indoor-localization-with-ros-and-htc-vive.html]
+[^3]: [https://github.com/cmbruns/pyopenvr]
+[^4]: [https://github.com/robosavvy/vive_ros/issues/11]
+[^5]: [https://hackaday.io/project/19570-htc-vive-lighthouse-custom-tracking]
+[^6]: Article under review, contact Mathias
+[^7]: [https://github.com/itk-thrivaldi]
