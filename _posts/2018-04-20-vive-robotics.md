@@ -38,11 +38,10 @@ The third is calibration of Thrivaldi[^7]. Recently the Department of Engineerin
 2. Mathias Hauan Arbo  - PhD at the department (Co-supervisor)
 3. Esten Ingar Grøtli - SINTEF Digitcal (Potential co-supervisor)
 
-### Links ###
-[^1]: [https://www.youtube.com/watch?v=75ZytcYANTA](Hackaday presentation of lighthouses technology)
-[^2]: [http://www.ros.org/news/2016/08/03mm-indoor-localization-with-ros-and-htc-vive.html](ROS news article on HTC Vive localization)
-[^3]: [https://github.com/cmbruns/pyopenvr](Github page on pyopenvr)
-[^4]: [https://github.com/robosavvy/vive_ros/issues/11](Github discussion on vive_ros package)
-[^5]: [https://hackaday.io/project/19570-htc-vive-lighthouse-custom-tracking](Custom Vive tracker project)
+[^1]: [Hackaday presentation of lighthouses technology](https://www.youtube.com/watch?v=75ZytcYANTA)
+[^2]: [ROS news article on HTC Vive localization](http://www.ros.org/news/2016/08/03mm-indoor-localization-with-ros-and-htc-vive.html)
+[^3]: [Github page on pyopenvr](https://github.com/cmbruns/pyopenvr)
+[^4]: [Github discussion on vive_ros package](https://github.com/robosavvy/vive_ros/issues/11)
+[^5]: [Custom Vive tracker project](https://hackaday.io/project/19570-htc-vive-lighthouse-custom-tracking)
 [^6]: Article under review, contact Mathias
-[^7]: [https://github.com/itk-thrivaldi](Github project for Thrivaldi)
+[^7]: [Github project for Thrivaldi](https://github.com/itk-thrivaldi)
