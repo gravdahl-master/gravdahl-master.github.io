@@ -34,11 +34,7 @@ It would also benefit the community if the overall approach is systematized. Thi
 2. Mathias Hauan Arbo - PhD at the department (Co-supervisor)
 
 
-## Links ##
-[^1]: [https://www.kukakore.com/wp-content/uploads/2012/07/KUKA_LBR4plus_ENLISCH.pdf]
-
+[^1]: [KUKA LBR manual](https://www.kukakore.com/wp-content/uploads/2012/07/KUKA_LBR4plus_ENLISCH.pdf)
 [^2]: Ivar Eriksen's Master Thesis
-
-[^3]: [https://www.youtube.com/watch?v=iRKDfknqtbc]
-
-[^4]: [https://ieeexplore.ieee.org/document/7487127/]
+[^3]: [Video of KUKA industrial robot disassembly](https://www.youtube.com/watch?v=iRKDfknqtbc)
+[^4]: [Transfer entropy and UR5 force estimation](https://ieeexplore.ieee.org/document/7487127/)
