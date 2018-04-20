@@ -4,6 +4,7 @@ title: Rapid Robotcell Calibration: Vive for Robotics  #This becomes the title o
 date: 2018-04-20
 categories: [virtual reality, industrial robotics]
 ---
+
 HTC Vive is quite famous for their new virtual reality gaming headset. It has quickly become one of the best in the market. One of the reasons for its success was the innovative technology for tracking users hands and head. This tracking system consists of three or more "lighthouses" placed around the room[^1]. They sweep beams of light at a very precise frequency, and high-speed light sensors in the headset and remotes pick these up. Using these light signals, the system is capable of tracking the location of the remotes at a rate of 60 fps at an accuraccy of 0.3 mm in practically any size room[^2]. 
 
 In many industrial automation cases, a robot work cell must be calibrated such that the location of tools, surfaces, and parts are known to the robot. This can be done by jogging the robot (moving it by the remote controller), or by guiding the robot by hand (when the robot is in compliant mode), to specific setpoints in the work cell and recording their location. Another way is to construct the work cell with a high-degree of positional accuracy. In general for robots performing many tasks, and visiting many locations, this is time consuming and requires the robot to be installed ahead of time, or expensive and laborious. This can become very complicated when working with mobile robots that change location on the shop floor, or when the company desires to change setups quickly and often. 
