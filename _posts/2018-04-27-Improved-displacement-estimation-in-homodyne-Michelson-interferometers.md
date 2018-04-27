@@ -14,3 +14,13 @@ Interferometry can be used to measure length displacements with high accuracy an
 Displacement measurement using optical interferometry is mainly done using variants of the Michelson interferometer, using highly coherent and polarized light from a laser source. Resolution below 1 nm is routinely achieved in suitable environmental conditions, but the accuracy of the measurements are impacted due to several non-ideal effects. **Improved estimation methods can rectify these accuracy problems.**
 
 ![Michelson interferometer]({{site.baseurl}}/assets/michelson_optical_diagram_03.png)
+
+
+* Learn how to use a SIOS laser interferometer to measure displacement (distance).
+* Study optics and models of the homodyne Michelson interferometer.
+* Study the methods currently used (e.g. the Heydemann-method) to determine displacement from the interference signals.
+* Identify suitable estimation methods for estimating the parameters and signals in the model, such as the extended and unscented Kalman filter, and the particle filter.
+* Look for ways to improve the modelling, to better capture non-ideal effects.
+* Determine under what conditions the parameter and signal estimates converge, and how to improve convergence rate.
+* Perform experiments using the SIOS laser interferometer to collect data.
+* Compare current methods with you own method(s).
