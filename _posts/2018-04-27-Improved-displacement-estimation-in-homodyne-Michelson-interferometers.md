@@ -1,4 +1,10 @@
-### Improved displacement estimation in homodyne Michelson interferometers
+---
+layout: post #always use this
+title: Improved displacement estimation in homodyne Michelson interferometers  #This becomes the title of the page
+date: 2018-04-27
+categories: [nonlinear control, sliding mode]
+---
+
 
 Interferometry can be used to measure length displacements with high accuracy and resolution. Measuring length using interferometry relates the measurement directly to the definition of the meter, via the frequency $\omega = 2 \pi f$, or wavelength $\lambda$, of the laser source used, since the two are related by $\lambda = c/f$, where $c$ is the speed of light in vacuum. The accuracy of the measurement is therefore in principle only limited by how well the frequency of the laser source can be determined.
 
