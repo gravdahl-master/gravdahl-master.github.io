@@ -5,7 +5,6 @@ date: 2018-04-27
 categories: [nonlinear control, sliding mode]
 ---
 
-# Real-time velocity control of a collaborative 7-DOF redundant robotic manipulator with reactive avoidance of external forces #
  
 Cooperative robots need to safely and efficiently react to external forces imposed by humans, other robots or the environment. In a 7-DOF redundant robotic manipulator, there are an infinite number of robot configurations for any end-effector pose or velocity. In this project, the goal is to use this redundancy to change the robot configuration (joint coordinates) to safely react to external forces while still following the desired end-effector trajectory.
  
