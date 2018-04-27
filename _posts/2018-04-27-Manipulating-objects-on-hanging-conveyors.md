@@ -4,5 +4,5 @@ title: Manipulating objects on hanging conveyors   #This becomes the title of th
 date: 2018-04-27
 categories: [nonlinear control, sliding mode]
 ---
-# Manipulating objects on hanging conveyors #
+
 [Manipulating objects on hanging conveyors](../assets/ROMOProsjekt.pdf)
