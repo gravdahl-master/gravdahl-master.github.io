@@ -1,2 +1,2 @@
-y
-[Oppgavetekst fra Umoe Mandal](gravdahl-master.github.io/assets/ProsjektUmoeMandal.pdf)
+z
+[Oppgavetekst fra Umoe Mandal](../assets/ProsjektUmoeMandal.pdf)
