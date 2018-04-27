@@ -10,6 +10,7 @@ author_email:       jan.tommy.gravdahl[at]ntnu.no
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /notes/:title # Post permalink
 timezone:           Europe/Norway # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            true # Enable latex support
 
 # Site Build
 highlighter:        rouge
