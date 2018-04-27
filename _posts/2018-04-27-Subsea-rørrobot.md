@@ -1,2 +1,2 @@
 
-[Oppgavetekst fra Empig](../assets/EmpigProsjekt.pdf)
+[Oppgavetekst fra Empig](gravdahl-master.github.io/assets/EmpigProsjekt.pdf)
