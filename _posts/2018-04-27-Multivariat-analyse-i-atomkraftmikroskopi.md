@@ -1,3 +1,9 @@
+---
+layout: post #always use this
+title: Multivariat analyse i atomkraftmikroskopi    #This becomes the title of the page
+date: 2018-04-27
+categories: [nonlinear control, sliding mode]
+---
 
 Bakgrunn: AFM er en mikroskopi-teknikk som muliggjør avbildning av detaljer ned til atomær oppløsning. En spesielt attraktivt egenskap er at den tillater måling av mekaniske egenskaper på nanometer-nivå. Tradisjonelt har disse teknikkene vært basert på statiske analyser (Hookes lov). Over de siste årene har fokuset skiftet mer mot bruk av dynamiske teknikker for analyse, noe som gjør metoder fra den kybernetiske verktøy-kassa meget aktuelle. Bruksområdene for gode metoder for å måle stadig flere mekaniske egenskaper av prøver vil være stor for mange forskningsdisipliner, slik som materialteknologi, medisin og biologi. For eksempel vil en bedre forståelse av mekanikken i en celle kunne bidra til en overordnet forståelse av hvordan denne oppfører seg. Dette kan være nyttig i for eksempel kreft-forskning, der man har funnet en sammenheng mellom kreft og stivheten på en celle.
 
