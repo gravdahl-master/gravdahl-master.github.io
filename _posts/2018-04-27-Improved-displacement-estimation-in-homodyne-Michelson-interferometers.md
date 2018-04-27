@@ -6,7 +6,7 @@ categories: [nonlinear control, sliding mode]
 ---
 
 
-Interferometry can be used to measure length displacements with high accuracy and resolution. Measuring length using interferometry relates the measurement directly to the definition of the meter, via the frequency $\omega = 2 \pi f$, or wavelength $\lambda$, of the laser source used, since the two are related by $\lambda = c/f$, where $c$ is the speed of light in vacuum. The accuracy of the measurement is therefore in principle only limited by how well the frequency of the laser source can be determined.
+Interferometry can be used to measure length displacements with high accuracy and resolution. Measuring length using interferometry relates the measurement directly to the definition of the meter, via the frequency $$\omega = 2 \pi f$$, or wavelength $$\lambda$$, of the laser source used, since the two are related by $$\lambda = c/f$$, where $$c$$ is the speed of light in vacuum. The accuracy of the measurement is therefore in principle only limited by how well the frequency of the laser source can be determined.
 
 ![SIOS SP-S Series]({{site.baseurl}}/assets/sp_s_series.png)
 
