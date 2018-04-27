@@ -1,9 +1,10 @@
 ---
 layout: post #always use this
-title: Kybernetikk og nanoteknologi: Fra multifrekvens atomkraftmikroskopi (MF-AFM) til dynamiske modeller for identifisering av nanomekaniske egenskaper   #This becomes the title of the page
+title: 3Kybernetikk og nanoteknologi: Fra multifrekvens atomkraftmikroskopi (MF-AFM) til dynamiske modeller for identifisering av nanomekaniske egenskaper    #This becomes the title of the page
 date: 2018-04-27
 categories: [nonlinear control, sliding mode]
 ---
+
 
 Kybernetikk og nanoteknologi: Fra multifrekvens atomkraftmikroskopi (MF-AFM) til dynamiske modeller for identifisering av nanomekaniske egenskaper
 
