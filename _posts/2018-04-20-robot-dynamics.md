@@ -20,7 +20,7 @@ This project will be an extension of a library in development, and the forward k
 ### Tasks ###
 1. Get familiarized with the URDF format and ROS
 2. Get familiarized with CasADi
-3. Create algorithms for generating symbolic expressions of dynamics parameters ($$\mathbm{M}(\mathbm{q})$$, $$\mathbm{C}(\mathbm{q},\dot{\mathbm{q}})$$, $$\mathbm{G}(\mathbm{q})$$)
+3. Create algorithms for generating symbolic expressions of dynamics parameters ($${M}(\vec{q})$$, $${C}(\vec{q},\dot{vec{q}})$$, $${G}(\vec{q})$$)
 4. Evaluate the runtime of the equation and validity in simulations with Gazebo
 
 ### Further work ###
