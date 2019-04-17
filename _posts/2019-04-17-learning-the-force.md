@@ -1,7 +1,7 @@
 ---
 layout: post #always use this
 title: Learning the force - Estimating End-Effector force in Robots #This becomes the title of the page
-date: 2018-04-20
+date: 2019-04-17
 categories: [compliant robotics, force estimation]
 ---
 Force sensors, though gradually becoming cheaper, are still expensive tools. Various companies are trying to alleviate these expenses by offering estimation of the end-effector forces using the supplied motor currents [^1]. These techniques are usually applied to lightweight robots that are made for human-machine interactions. Outlining the method of how one can go from motor currents to end-effector force estimation in a way that can be applied to any robot would be of interest to both industry and researchers as it is a low-cost gateway drug to more advanced compliant control techniques.
