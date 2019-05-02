@@ -6,3 +6,5 @@ categories: [nonlinear control, sliding mode]
 ---
 
 Samarbeid med SINTEF Ocean. Ta kontakt
+
+[Force-feedback control for advanced manipulation of deformable objects ](../assets/iProcessOppgave.pdf)
