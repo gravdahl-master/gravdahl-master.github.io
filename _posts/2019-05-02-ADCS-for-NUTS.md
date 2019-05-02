@@ -1,7 +1,7 @@
 ---
 layout: post #always use this
 title: Attitude determination and control system (ADCS) for NUTS: Hardware in the loop  #This becomes the title of the page
-date: 2018-04-27
+date: 2019-05-02
 categories: [nonlinear control, sliding mode]
 ---
 # Background on NTNU Test Satellite – NUTS: #
