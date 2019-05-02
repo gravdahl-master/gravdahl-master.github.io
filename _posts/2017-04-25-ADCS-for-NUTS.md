@@ -1,6 +1,6 @@
 ---
 layout: post #always use this
-title: Attitude determination and control system (ADCS) for NUTS  #This becomes the title of the page
+title: Attitude determination and control system (ADCS) for NUTS: Hardware in the loop  #This becomes the title of the page
 date: 2018-04-27
 categories: [nonlinear control, sliding mode]
 ---
@@ -25,22 +25,10 @@ As we are a multidisciplinary group with project members from several department
  
 
 ### ADCS – Attitude Determintation and Control System: ###
-The assigment can consist of one or several of the follwing tasks:
+Orbit NTNU is building a small satellite that will be launched into low earth orbit. The satellite contains a attitude determination and control system which is being developed at NTNU.
+The ADCS control algorithms are being tested on a hardware in the loop system which provides simulated environmental data such that the system can be properly tested.
 
-* Calibration (sensor calibration to quantify or eliminate bias in; magnetometer, gyro, sun sensor, earth sensor)
-* Test
-  * Magnetometer noise – behaviour in various conditions, Helmholtz coil test, 
-  * Gyro test, get data at different attitudes
-  * Determine test criteria for verification and comparison of different estimation and control algorithms. Develop test environment and determine sufficient test inputs for comparison.
-* Simulation of dynamics and control of NUTS (MATLAB - easiest)
-  * Simulate orbit of satellite with appropriate perturbation model (J2 effects, albedo radiation, lunar gravity influences, solar radiation pressure, atmospheric drag etc.)
-  * Develop a model for estimator (EKF vs. EQUEST vs. other nonlinear estimators)
-  * Determine behaviour of satellite based on appropriate control law. Attitude stabilization.
-  * Determine how satellite behaves with attitude control by use of sun sensor, magnetometer, gyro independently
-* Hybrid Kalman Filter (continuous and discrete) for NUTS
-* If using Kalman Filter: Analysis of selecting weights for process noise covariance matrix Q and sensor noise covariance R.
-* Research on UNSCENTED KALMAN FILTER on estimating attitude of satellite.
-* Analysis on attitude control: damping control (detumbling) and use of PID (or PD) for three-axis stabilization control (magnetic coil). This may include simulation of a satellite in a virtual environment with timeframe: separation-to-orbit insertion as well as perturbation simulations on how the satellite would behave while in orbit.
+A masters on this system can take their thesis is various directions. It is possible to improve the existing HIL simulation, use the HIL to test and verify the attitude controller or expand the hardware in the loop system to include other parts of the satellite such as the communication system, flight computer or the electrical power system.
 
 
 
