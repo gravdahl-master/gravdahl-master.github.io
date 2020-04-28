@@ -7,4 +7,4 @@ categories: [Autonomy, UAV, fish farms]
 
 Samarbeid med SINTEF Ocean
 
-[Oppgavetekst](../assets/Control of unmanned surface and subsea vehicles.pdf)
+[Oppgavetekst](../assets/Control of unmanned surface and subsea vehicles .pdf)
