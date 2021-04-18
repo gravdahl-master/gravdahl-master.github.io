@@ -21,6 +21,7 @@ In this specialization project, you will get the chance to delve into 3D printin
 1. Familiarize yourself with laser and camera sensors for capturing geometric information
 2. Write a ROS package for a laser scanner or other sensor
 3. Experiment/capture data with the sensor on a 3D printer system
+4. Write a report on the work.
 
 ## Further work ##
 
