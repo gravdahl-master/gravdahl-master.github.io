@@ -21,6 +21,6 @@ kinetisk energi i et fluid til elektrisk energi.
 1. Amer Ourucevic, PhD kandidat, medveileder
 2. Jan Tommy Gravdahl - hovedveileder
 
-![van der Schaft (2021)](../assets/vanderSchaft_arXiv_2021.pdf)
+[van der Schaft (2021)](../assets/vanderSchaft_arXiv_2021.pdf)
 
 
