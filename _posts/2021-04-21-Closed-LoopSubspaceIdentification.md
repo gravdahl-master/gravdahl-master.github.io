@@ -7,4 +7,4 @@ categories: [learning, analysis]
 
 Samarbeid med SINTEF Digital. 
 
-[Oppgavetekst](../assets/Robustness.pdf)
+[Oppgavetekst](../assets/Closed-LoopSubspaceIdentification2021.pdf)
