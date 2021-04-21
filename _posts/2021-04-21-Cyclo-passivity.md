@@ -11,6 +11,8 @@ og cyclo-dissipativitet, se (van der Schaft, 2021), begreper som omhandler passi
 Vi ønsker et studium av slike systemer, spesielt anvendt mot energi-høsting, det vil si systemer som konverterer energi fra en form til en annen, for eksempel 
 kinetisk energi i et fluid til elektrisk energi.
 
+Gode resultater i TTK4150 Ulineære systemer er en forutsetning for denne oppgaven
+
 ## Oppgaver ##
 
 1.	Gjennomfør et litteraturstudium på cyclo-passivitet og cyclo-dissipativitet.
