@@ -7,5 +7,5 @@ categories: [robotics, ultrasound, simulation, learning]
 
 Samarbeid med SINTEF Digital - Helse. 
 
-[Oppgavetekst](../assets/RoboticUltrasound.pdf)
+[Oppgavetekst](../assets/Master Thesis Topic - Learning for Robot Control [1].pdf)
 
