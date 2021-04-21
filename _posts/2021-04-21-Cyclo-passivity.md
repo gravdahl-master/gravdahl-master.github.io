@@ -18,7 +18,7 @@ kinetisk energi i et fluid til elektrisk energi.
 3.	Anvend disse begrepene på en eller flere energikonverterings(høsting)prosesser
 
 ## Veiledere ##
-1. Amer Ourucevic, PhD kandidat, medveileder
+1. Amer Orucevic, PhD kandidat, medveileder
 2. Jan Tommy Gravdahl - hovedveileder
 
 [van der Schaft (2021)](../assets/vanderSchaft_arXiv_2021.pdf)
