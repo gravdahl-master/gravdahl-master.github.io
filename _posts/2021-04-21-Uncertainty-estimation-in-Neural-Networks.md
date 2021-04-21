@@ -8,5 +8,5 @@ categories: [neural networks, learning]
 
 Samarbeid med SINTEF Digital 
 
-[Oppgavetekst](../assets/Uncertainty estimation in Deep Learning.pdf)
+[Oppgavetekst](../assets/UncertaintyEstimationInNeuralNetworks2021.pdf)
 
