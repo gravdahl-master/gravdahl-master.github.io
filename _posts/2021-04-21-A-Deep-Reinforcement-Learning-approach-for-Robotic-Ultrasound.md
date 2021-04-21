@@ -7,4 +7,4 @@ categories: [robotics, learning, programming]
 
 Samarbeid med SINTEF Digital
 
-[Oppgavetekst](../assets/ROMO Health - Master thesis proposal 2021-22[1].pdf
+[Oppgavetekst](../assets/ROMO Health - Master thesis proposal 2021-22[1].pdf)
