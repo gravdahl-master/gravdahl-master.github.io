@@ -8,5 +8,5 @@ categories: [modeling, control simualtion, aerospace]
 
 Samarbeid med Kongsberg DA
 
-[Oppgavetekst](../assets/DetemblingOfSatellites.pdf)
+[Oppgavetekst](../assets/DetumblingOfSatellites.pdf)
 
